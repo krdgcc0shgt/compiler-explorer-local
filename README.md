@@ -32,3 +32,5 @@ They were created by:
 - node ... i used nvm (nvm use --lts) which uses node 20.xx
 
 and your local compilers (gcc, clang).
+
+I am running the local instance on WSL2 on my laptop.
